@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frankjuniormweene
+- 👋 Hi, I’m Frank
 - 👀 I’m interested in ai modelling
 - 🌱 I’m currently learning machine learning.
 - 💞️ In love with machine learning.
