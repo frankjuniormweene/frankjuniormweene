@@ -1,9 +1,5 @@
 - 👋 Hi, I’m Frank
-- 👀 I’m interested in ai modelling
-- 🌱 I’m currently learning machine learning.
-- 💞️ In love with machine learning.
-- 📫 Not reachable yet.
-- ⚡ Hobby: Basketball. 
+
 
 <!---
 frankjuniormweene/frankjuniormweene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
